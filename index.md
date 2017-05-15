@@ -1,5 +1,7 @@
 ## Welcome to Subwoofer Solutions
 
+![](https://media.sailthru.com/3l0/1k1/5/f/5919dcaab334c.png)
+
 All sorts can happen here ¯\_(ツ)_/¯
 
 You can use the [editor on GitHub](https://github.com/madamkirsty/subwoofer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
